@@ -1,3 +1,8 @@
+#Forked from bkeepers
+
+> Create a scaffold to take unencrypted ENC (.000) files and render with S52 library in a vite environment
+> Currently the project uses externally hosted .pmtiles and does not render all objects (soundings, points etc are missing).
+
 # enc-tiles
 
 > Tools to produce vector tiles (mbtiles, pmtiles) from Electronic Navigational Charts (ENCs)
